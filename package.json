@@ -1,0 +1,18 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "node app",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "exec": "^0.2.1",
+    "express": "^4.13.4",
+    "multer": "^1.1.0",
+    "path": "^0.12.7",
+    "promise": "^7.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node-supervisor server.js"
+  },
+  "license": "MIT"
+}
